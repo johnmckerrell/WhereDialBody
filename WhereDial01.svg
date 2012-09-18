@@ -20,7 +20,7 @@
    sodipodi:docname="WhereDial01.svg"><metadata
    id="metadata530"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -30,26 +30,20 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1075"
+   inkscape:window-height="1079"
    id="namedview528"
    showgrid="false"
    inkscape:zoom="0.64581837"
    inkscape:cx="855.91402"
    inkscape:cy="558.44519"
    inkscape:window-x="0"
-   inkscape:window-y="22"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg2"
    inkscape:document-units="mm"
    showguides="true"
    inkscape:guide-bbox="true"
-   units="mm"><sodipodi:guide
-     orientation="0,1"
-     position="591.16373,326.12963"
-     id="guide35404" /><sodipodi:guide
-     orientation="0,1"
-     position="604.93173,278.22844"
-     id="guide35406" /></sodipodi:namedview>
+   units="mm" />
  <defs
    id="defs4">
   <font
@@ -2284,26 +2278,7 @@ polygon.l52 {fill:#808080; }
      width="4.8062854"
      height="2.8062854"
      x="246.41386"
-     y="183.84663" /></g><ellipse
-   d="m -66.499901,78 c 0,9.664983 -7.835017,17.5 -17.5,17.5 -9.664983,0 -17.499999,-7.835017 -17.499999,-17.5 0,-9.664983 7.835016,-17.5 17.499999,-17.5 9.664983,0 17.5,7.835017 17.5,17.5 z"
-   style="fill:none;stroke:#1f1a17;stroke-width:0.2"
-   sodipodi:ry="17.5"
-   sodipodi:rx="17.5"
-   sodipodi:cy="78"
-   sodipodi:cx="-83.999901"
-   id="ellipse446"
-   ry="17.5"
-   rx="17.5"
-   cy="78"
-   cx="-83.999901"
-   class="fil8 str11"
-   transform="translate(338.65497,138.85797)" /><rect
-   style="fill:none;stroke:#000000;stroke-width:0.22224966;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-   id="rect3675"
-   width="4.7777505"
-   height="2.7777505"
-   x="252.26619"
-   y="215.4691" /><path
+     y="183.84663" /></g><path
    style="fill:none;stroke:#000000;stroke-width:0.028;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
    d="m 40.843037,206.4064 -2.9016,0 0,-19.24401 -17.32881,0 0,-2.93687 -9.9748,0 0,2.93687 -7.7766803,0 0,6.49111 -0.00792,0.0348 0,8.8292 0.00792,0.0348 0,3.8541 -2.93688002,0 0,9.97479 2.93688002,0 0,4.00679 -0.015321,0.0348 0.034797,16.5772 -0.019476,0 0,9.79066 7.7766803,0 0,2.93687 9.9748,0 0,-2.93687 17.32881,0 0,-30.40945 2.9016,0 z"
    id="path336"
@@ -2373,6 +2348,7 @@ polygon.l52 {fill:#808080; }
      x="200.36516"
      y="243.76376"
      style="font-size:5.69499588px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:none;stroke:#ff00ff;stroke-width:0.16815932;stroke-miterlimit:4;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial">Made in Liverpool</tspan></text>
+
 
 
 
@@ -3063,4 +3039,17 @@ polygon.l52 {fill:#808080; }
    id="rect5503" /><path
    style="fill:none;stroke:#000000;stroke-width:0.03924207;stroke-miterlimit:4;stroke-opacity:1"
    d="m 14.759622,193.63081 13.960758,0 0,8.89683 -13.960758,0 z"
-   id="rect6273" /></svg>
+   id="rect6273" /><g
+   id="g4094"
+   transform="translate(0,33.866668)"><path
+     style="fill:none;stroke:#000000;stroke-width:0.1662"
+     inkscape:connector-curvature="0"
+     id="path4096"
+     d="m 257.42345,183.65939 1.9303,-0.3093 0.1616,-0.007 2.2142,0.7572 0,1.7962 -2.2142,0.7572 -0.1616,-0.007 -1.9303,-0.3093 -0.8088,2.4902 1.7435,0.8843 0.1349,0.0893 1.3467,1.9132 -1.0564,1.454 -2.236,-0.6896 -0.1267,-0.1007 -1.38,-1.3842 -2.1176,1.5385 0.8909,1.7401 0.0558,0.1519 -0.0349,2.3392 -1.7086,0.5557 -1.4037,-1.8725 -0.0439,-0.1558 -0.3026,-1.9311 -2.6176,0 -0.3026,1.9311 -0.0438,0.1558 -1.4037,1.8725 -1.7086,-0.5557 -0.0349,-2.3392 0.0558,-0.1519 0.8911,-1.7401 -2.1178,-1.5385 -1.38,1.3842 -0.1268,0.1007 -2.2359,0.6896 -1.0564,-1.454 1.3468,-1.9132 0.1347,-0.0893 1.7436,-0.8843 -0.8089,-2.4902 -1.9302,0.3093 -0.1616,0.007 -2.2142,-0.7572 0,-1.7962 2.2142,-0.7572 0.1616,0.007 1.9302,0.3093 0.8089,-2.4902 -1.7436,-0.8843 -0.1347,-0.0892 -1.3468,-1.9133 1.0564,-1.4539 2.2359,0.6895 0.1268,0.1008 1.38,1.3842 2.1178,-1.5385 -0.8911,-1.7402 -0.0558,-0.1519 0.0349,-2.3392 1.7086,-0.5556 1.4037,1.8724 0.0438,0.1558 0.3026,1.9311 2.6176,0 0.3026,-1.9311 0.0439,-0.1558 1.4037,-1.8724 1.7086,0.5556 0.0349,2.3392 -0.0558,0.1519 -0.8909,1.7402 2.1176,1.5385 1.38,-1.3842 0.1267,-0.1008 2.236,-0.6895 1.0564,1.4539 -1.3467,1.9133 -0.1349,0.0892 -1.7435,0.8843 0.8088,2.4902 z m 0,0 z"
+     class="fil6 str8" /><rect
+     y="183.84663"
+     x="246.41386"
+     height="2.8062854"
+     width="4.8062854"
+     id="rect4098"
+     style="fill:none;stroke:#000000;stroke-width:0.19371475;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g></svg>
